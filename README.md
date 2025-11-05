@@ -92,7 +92,7 @@ The AI uses the **Minimax algorithm** enhanced with **Alpha-Beta pruning**:
 
 ## 🧑‍💻 Contributors
 
-- [Your Name](https://github.com/Ashwani4545) — Developer & Maintainer
+- [Ashwani Pandey](https://github.com/Ashwani4545) — Developer & Maintainer
 
 ---
 
