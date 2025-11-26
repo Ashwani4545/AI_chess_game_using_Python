@@ -44,9 +44,9 @@ Make sure you have Python 3.x installed. Then install required libraries:
 pip install pygame
 ```
 
-### 3️⃣ Run the Game
+#### 3️⃣ Run the Game
 
-```bash
+```
 python main.py
 ```
 
