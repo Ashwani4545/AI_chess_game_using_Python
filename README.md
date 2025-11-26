@@ -29,9 +29,9 @@ The AI utilizes **Minimax algorithm with Alpha-Beta pruning** to predict the pla
 
 ## ⚙️ Installation & Setup
 
-### 1️⃣ Clone the Repository
+#### 1️⃣ Clone the Repository
 
-```bash
+```
 git clone https://github.com/Ashwani4545/AI_chess_game_using_Python.git
 cd AI_chess_game_using_Python
 ```
