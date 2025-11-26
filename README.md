@@ -36,7 +36,7 @@ git clone https://github.com/Ashwani4545/AI_chess_game_using_Python.git
 cd AI_chess_game_using_Python
 ```
 
-### 2️⃣ Install Dependencies
+#### 2️⃣ Install Dependencies
 
 Make sure you have Python 3.x installed. Then install required libraries:
 
